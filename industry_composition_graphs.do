@@ -3,21 +3,16 @@
  Gender-Segmented Labor Markets and the Effects of Local Demand Shocks
  Juan Pablo Chauvin - Juan Nicolas Herrera
 
- Purpose: Script to create industry and place-industry panels
+ Purpose: Script to create graphs of the gender composition of industries in brazil
  Created by: JN Herrera
  Created on: October 2017
  Last modified on: October 29 2018
  Last modified by: JN Herrera
  Edits history:
-	- [06/01/2017] - JNH:	Created version for first published draft
-	- [10/29/2018] - JNH:	Adapted it to new routine to compute industy aggregates
+	- [10/19/2018] - JNH:	Created first version 
+
 *-------------------------------------------------------------------------------*/
 
-* Gender-Industry employment composition graphs
-* Juan Pablo Chauvin - Juan Nicolas Herrera
-
-* Script to create graphs of the gender composition of industries in brazil
-* October 2017
 
 cd "\\hqpnas01\res_nas\Research\jpchauvin\projects\gender_demand_shocks\analysis"
 
